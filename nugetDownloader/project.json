@@ -1,0 +1,11 @@
+﻿{
+  "dependencies": {
+    "NuGet.PackageManagement": "3.6.0-rc-1987"
+  },
+  "frameworks": {
+    "net46": { }
+  },
+  "runtimes": {
+    "win": { }
+  }
+}
